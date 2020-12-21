@@ -4,3 +4,4 @@ build/
 dist/
 manager.spec
 .DS_Store
+manager.pyc
